@@ -3,6 +3,7 @@ Contains examples and code segments of one of the best data visualisation librar
 
 # Steps for installation:
   > pip install pandas
+  
   > pip install cufflink
 
-# Use jupyter notebook to run the ipynb code file attached here.
+ --> Use jupyter notebook to run the ipynb code file attached here.
